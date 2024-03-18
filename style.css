@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 100px;
+    box-sizing: border-box;
+    background-image: url(image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Poppins', 'Helvetica Neue', Arial, sans-serif;
+    font-size: large;
+}
+
+
+
